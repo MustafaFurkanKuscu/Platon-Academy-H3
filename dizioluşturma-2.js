@@ -1,0 +1,1 @@
+var yeniDizi1 = new Array("Javascript", "React Native");
